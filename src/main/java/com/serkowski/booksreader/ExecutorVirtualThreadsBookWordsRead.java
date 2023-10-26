@@ -1,4 +1,4 @@
-package com.serkowski;
+package com.serkowski.booksreader;
 
 
 import java.io.IOException;
